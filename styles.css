@@ -1,0 +1,63 @@
+.body-class {
+    background-color: whitesmoke;
+}
+.header-class {
+    background-color: rgb(0, 7, 36);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: x-large;
+}
+.nav-class {
+    background-color: rgb(7, 67, 77);
+    color: rgb(0, 7, 36);
+    padding: 10px;
+    font-size: large;
+}
+.nav-class a {
+    color: whitesmoke;
+    padding: 10px;
+} 
+.nav-class a:active {
+    font-weight: bold;
+}
+.section-title-class {
+    color: rgb(9, 24, 90);
+    font-size: x-large;
+}
+.text-class {
+    color: black;
+    font-size: large;
+    margin: 10px;
+}
+.image-class {
+    border-style: solid;
+    border-width: 8px;
+    border-color: rgb(7, 67, 77);
+    width: 50%;
+    margin: 10px;
+}
+.form-class {
+    color: rgb(7, 67, 77);
+    font-size: large;
+    font-weight: bold;
+}
+.button-class {
+    color: white;
+    background-color: rgb(1, 14, 66);
+    margin-top: 5px;
+    width: 80px;
+}
+.footer-class {
+    background-color: rgb(7, 67, 77);
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+h3 {
+    margin: 5px;
+}
+.input-class {
+    width: 300px;
+    font-size: large;
+}
